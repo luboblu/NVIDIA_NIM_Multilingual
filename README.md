@@ -101,4 +101,5 @@ python image_to_text.py
 - NVIDIA AI API (Nim & Integrate)
 - [Gradio](https://gradio.app)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
+- 模型來源:https://build.nvidia.com/
 
